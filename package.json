@@ -1,0 +1,23 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "This is a nodeJS application with a expressJS server as a backend deployed in HEROKU",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archana-nagaraj/zookeepr.git"
+  },
+  "author": "archana-nagaraj",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/archana-nagaraj/zookeepr/issues"
+  },
+  "homepage": "https://github.com/archana-nagaraj/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
